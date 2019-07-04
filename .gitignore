@@ -1,0 +1,42 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+*.ipch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+*.suo
+*.vcxproj.user
+Debug
+Release
+*.db
+*.opendb
+/packages
+/CoroutineTest/.vs/CoroutineTest/v15/ipch/AutoPCH/30675c8c60b118ca/*.ipch
+*.ilk
+*.pdb
+build
